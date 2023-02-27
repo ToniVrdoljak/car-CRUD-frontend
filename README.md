@@ -1,6 +1,6 @@
 # Running and building car CRUD frontend
 
-This project is the frontend part of the car CRUD app
+This project is the frontend part of the car CRUD app from the book "Hands-On Full Stack Development with Spring Boot 2.0 and React" by Juha Hinkula
 
 ## Installing and running the frontend locally for development and testing
 
